@@ -150,7 +150,3 @@ environment:</p>
 </ul>
 <p>Isto establece a variable de ambiente <code>NOMBRE</code> dentro do contenedor.</p></li>
 </ol>
-<h2>Resumo</h2>
-<p>Con Docker Compose, podes xestionar múltiples contenedores conectados a redes definidas
-no arquivo <code>docker-compose.yml</code>. Este arquivo permite personalizar a configuración
-dos contenedores e as redes de forma sinxela e ordenada.</p>
